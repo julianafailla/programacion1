@@ -1,4 +1,0 @@
-C:\Users\faill\Documents\GitHub\programacion1\ejercicios\Consola\obj\Debug\net6.0\Consola2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\faill\Documents\GitHub\programacion1\ejercicios\Consola\obj\Debug\net6.0\Consola2.AssemblyInfoInputs.cache
-C:\Users\faill\Documents\GitHub\programacion1\ejercicios\Consola\obj\Debug\net6.0\Consola2.AssemblyInfo.cs
-C:\Users\faill\Documents\GitHub\programacion1\ejercicios\Consola\obj\Debug\net6.0\Consola2.csproj.CoreCompileInputs.cache
