@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faill\\Documents\\GitHub\\programacion1\\ejercicios\\Consola\\Consola.csproj",
-      "projectName": "Consola",
-      "projectPath": "C:\\Users\\faill\\Documents\\GitHub\\programacion1\\ejercicios\\Consola\\Consola.csproj",
+      "projectUniqueName": "C:\\Users\\faill\\Documents\\GitHub\\programacion1\\ejercicios\\Consola\\Consola2.csproj",
+      "projectName": "Consola2",
+      "projectPath": "C:\\Users\\faill\\Documents\\GitHub\\programacion1\\ejercicios\\Consola\\Consola2.csproj",
       "packagesPath": "C:\\Users\\faill\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\faill\\Documents\\GitHub\\programacion1\\ejercicios\\Consola\\obj\\",
       "projectStyle": "PackageReference",
